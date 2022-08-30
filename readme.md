@@ -1,6 +1,6 @@
-# template-webapps
+# template-frontends
 
-Template browser-based webapps.
+Template browser-based frontends.
 
 ## Usage
 
